@@ -1,6 +1,5 @@
 'use strict';
 
-let testasdas;
 let responseData;
 function handleChange(e) {
     let val = e.target.value;
